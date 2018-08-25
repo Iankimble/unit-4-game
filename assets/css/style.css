@@ -1,0 +1,17 @@
+.bodybackground{ background-color:darkgrey;}
+.h1{text-align: center;}
+.lead{text-align: center;}
+.display-4{text-align: center; height: 10px; font-size: 30px}
+.lead{text-align: center;}
+.rules{text-align: center; font-size: 15px;}
+
+.row1{ height:150px; background-color: cornflowerblue;}
+.row2{height: 10px;}
+.row3{background-color: coral;text-align: center;height: 50px;;}
+
+#ruby1{height: 50px; width: 50px;}
+#sapphire1{height: 50px; width: 50px;}
+#diamond1{height: 50px; width: 50px;}
+#emerald1{height: 50px; width: 50px;}
+
+#userScore{ font-size: 35px;}
